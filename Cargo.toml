@@ -2,6 +2,11 @@
 name = "csvcatrow"
 version = "0.1.0"
 edition = "2021"
+categories = ["command-line-utilities"]
+keywords = ["csv", "xsv", "merge", "concatenate"]
+description = "CLI tool to concatenate csv (comma-separated values) files rowwise taking column headers into account"
+repository = "https://github.com/vi/csvcatrow"
+license = "MIT OR Apache-2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

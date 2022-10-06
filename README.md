@@ -1,6 +1,6 @@
 # csvcatrow 
 
-Tool for concatenating many small csv files into one big table row-wise, analogue of `xsv cat rows`, but handling reordered or different columns.
+Tool for concatenating many small csv files into one big table row-wise, analogue of [`xsv cat rows`][1], but handling reordered or different columns.
 
 
 ```
@@ -23,4 +23,7 @@ a,b,c
 1,2,3
 ```
 
-Built it with `cargo install --path .` or download pre-built execitables from [Github Releases]().
+Built it with `cargo install --path .` or download pre-built execitables from [Github Releases][2].
+
+[1]:https://github.com/BurntSushi/xsv
+[2]:https://github.com/vi/csvcatrow/releases/

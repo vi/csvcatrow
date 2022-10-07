@@ -23,7 +23,7 @@ a,b,c
 1,2,3
 ```
 
-Built it with `cargo install --path .` or download pre-built execitables from [Github Releases][2].
+Install it with `cargo install --path .` (or `cargo install csvcatrow`) or download pre-built execitables from [Github Releases][2].
 
 [1]:https://github.com/BurntSushi/xsv
 [2]:https://github.com/vi/csvcatrow/releases/

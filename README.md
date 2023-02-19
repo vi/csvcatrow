@@ -27,3 +27,9 @@ Install it with `cargo install --path .` (or `cargo install csvcatrow`) or downl
 
 [1]:https://github.com/BurntSushi/xsv
 [2]:https://github.com/vi/csvcatrow/releases/
+
+# See also
+
+[qsv's `cat rowskey`][3] subcommand.
+
+[3]:https://github.com/jqnatividad/qsv/blob/fd4dd17272c06e085045929d59620fc0a5c4b04e/src/cmd/cat.rs#L18
